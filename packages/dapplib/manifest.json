@@ -1,0 +1,19 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "BMO",
+                "symbol": "BMO",
+                "decimals": "12",
+                "supply": "120000000"
+            }
+        }
+    ],
+    "blockchain": "avalanche",
+    "language": "solidity",
+    "framework": "react"
+}
